@@ -1,0 +1,3 @@
+kernel/drivers/video/fbdev/exynos/dpu_7885/panels/dpui.ko
+kernel/drivers/video/fbdev/exynos/dpu_7885/panels/mdnie_lite.ko
+kernel/drivers/video/fbdev/exynos/dpu_7885/panels/ea8076_a30_poc.ko
